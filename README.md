@@ -1,2 +1,2 @@
 # biometric_system
-Workflow Documents
+Beta Sürümümüz ayrı bir branch içerisinde yayınlanmaktadır.
